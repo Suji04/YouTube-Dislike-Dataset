@@ -1,5 +1,5 @@
 # YouTube-Dislike-Dataset
-The full dataset can be found at:
+This repo contains video data for one of the 159 channels. The full dataset can be found here:
 <br>
 https://huggingface.co/datasets/Suji04/YouTube-Dislike-Dataset/
 
