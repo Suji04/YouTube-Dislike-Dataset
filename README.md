@@ -1,7 +1,7 @@
 # YouTube-Dislike-Dataset
 The full dataset can be found at:
 <br>
-https://huggingface.co/datasets/Suji04/YouTube-Dislike-Dataset/edit/main/README.md
+https://huggingface.co/datasets/Suji04/YouTube-Dislike-Dataset/
 
 We release a dataset of 8.3 million YouTube videos with view, like, dislike, comment count, video title, and video description information.
 The dataset features channels include 
